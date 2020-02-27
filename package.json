@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "start": "ng serve --port 8080 ",
-    "prestart": "npm install",
-    "prestart2": "npm install -g @angular/cli@6"
+    "prestart": "npm install & npm install -g @angular/cli@6"
   },
   "private": true,
   "dependencies": {

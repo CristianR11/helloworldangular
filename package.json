@@ -2,7 +2,8 @@
   "name": "helloworldangular2",
   "version": "0.0.0",
   "scripts": {
-    "start": "ng serve --port 8080 "
+    "start": "ng serve --port 8080 ",
+    "prestart": "npm install -g @angular/cli"
   },
   "private": true,
   "dependencies": {
